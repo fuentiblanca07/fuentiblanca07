@@ -1,5 +1,5 @@
 <h1 align="center">
-     Hi there👋 ![Typewriter](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=FFCFB3&width=500&lines=I'm+Julius+Fuentiblanca!;I'm+a+Web+Developer)
+     Hi there👋 # ![Typewriter](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=FFCFB3&width=500&lines=I'm+Julius+Fuentiblanca!;I'm+a+Web+Developer)
 </h1>
 
 <!--
