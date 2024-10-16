@@ -1,10 +1,4 @@
- <svg xmlns="http://www.w3.org/2000/svg" fill="none">
-        <foreignObject width="100%" height="100%"> 
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <!--we can include <style> elements, html elements etc. here now, with a few restrictions! Note it must be in xHTML style (so <img src="" /> not <img src="" > to be valid -->
-            </div>
-       </foreignObject>
-</svg>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=1581F7&background=51FF1900&center=true&vCenter=true&width=520&lines=Hi+I'm+Julius+Fuentiblanca;A+Full-stack+Developer)](https://git.io/typing-svg)
 
 <!--
 **fuentiblanca07/fuentiblanca07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
