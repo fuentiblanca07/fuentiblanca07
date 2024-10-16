@@ -1,5 +1,5 @@
 
-    ![Typewriter](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=FFCFB3&width=500&lines=I'm+Julius+Fuentiblanca!;I'm+a+Web+Developer)
+    ![Typewriter](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=FFCFB3&width=500&lines=H;I'm+Julius+Fuentiblanca!;I'm+a+Web+Developer)
 
 
 <!--
