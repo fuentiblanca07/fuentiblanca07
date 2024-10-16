@@ -1,6 +1,4 @@
-<h1>
-    ## Hi There ![Typewriter](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=238df1&width=435&lines=I'm+James+Malcolm+Gulles!)
-</h1>
+<div class="container-fluid"><div class="header"><div class="logo"><a href="https://xyxanime.rf.gd/index" class=""><img src="http://xyxanime.rf.gd/main.png" width="120" height="60" alt=""></a></div><div class="bar"><form action="https://xyxanime.rf.gd/query" method="get"><input type="search" name="name" class="search" placeholder="Search Your Anime..." required> <button type="submit" id="search-toggle"><i class="fa-solid fa-magnifying-glass"></i></button></form></div></div></div>
 
 
 <!--
