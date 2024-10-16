@@ -1,5 +1,4 @@
-
-    ![Typewriter](https://readme-typing-svg.herokuapp.com?font=roboto+Code&pause=1000&color=FFCFB3&width=500&lines=H;I'm+Julius+Fuentiblanca!;I'm+a+Web+Developer)
+![Typewriter](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=238df1&width=435&lines=H!i+👋;+I'm+James+Malcolm+Gulles!)
 
 
 <!--
