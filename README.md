@@ -1,5 +1,10 @@
-<div class="container-fluid"><div class="header"><div class="logo"><a href="https://xyxanime.rf.gd/index" class=""><img src="http://xyxanime.rf.gd/main.png" width="120" height="60" alt=""></a></div><div class="bar"><form action="https://xyxanime.rf.gd/query" method="get"><input type="search" name="name" class="search" placeholder="Search Your Anime..." required> <button type="submit" id="search-toggle"><i class="fa-solid fa-magnifying-glass"></i></button></form></div></div></div>
-
+ <svg xmlns="http://www.w3.org/2000/svg" fill="none">
+        <foreignObject width="100%" height="100%"> 
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <!--we can include <style> elements, html elements etc. here now, with a few restrictions! Note it must be in xHTML style (so <img src="" /> not <img src="" > to be valid -->
+            </div>
+       </foreignObject>
+</svg>
 
 <!--
 **fuentiblanca07/fuentiblanca07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
